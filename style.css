@@ -24,7 +24,7 @@ ul {
 
 #card {
     width: 700px;
-    margin: 100px auto;
+    margin: 150px auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: white;
@@ -111,7 +111,9 @@ ul {
 #btn {
     text-decoration: none;
     background-color: hsl(158, 36%, 37%);
-    padding: 12px 0;
+    padding: 7px 0;
+    font-weight: 500;
+    font-family: 'Fraunces', serif;
     font-size: 18px;
     border-radius: 8px;
     text-align: center;
